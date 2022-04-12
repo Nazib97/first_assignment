@@ -1,0 +1,38 @@
+div{
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #b3b3b3;
+	padding: 70px;
+	text-align: center;
+}
+h1{
+   color:#711a13; 
+   font-size:80px; 
+   margin:0;
+}
+span{
+	text-decoration:underline;
+}
+p{
+	font-size: 40px;
+}
+a{
+	background:#ccecfc;
+	column:#711a13 ;
+	font-size: 30px;
+	text-transform:capitalize ;
+	padding: 15px 40px ;
+	text-decoration: none;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+img{
+	width:314px;
+	display: block;
+	margin: auto;
+	border-radius: 50%;
+	height: 314px;
+	object-fit: cover;
+
+}
